@@ -10,16 +10,16 @@ A colorful, responsive **Healthcare Landing Page** built with **pure HTML only**
 
 ## 🌐 Live Preview
 
-> Open `index.html` directly in any browser — no setup needed.
+> Open `medicare_code.html` directly in any browser — no setup needed.
 
 ---
 
 ## 📁 Project Structure
 
 ```
-medicare-landing/
+medicare-html/
 │
-└── index.html       ← The entire project (single file)
+└── medicare_code.html       ← The entire project (single file)
 ```
 
 ---
@@ -52,15 +52,15 @@ medicare-landing/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/medicare-landing.git
+   git clone https://github.com/shahriarkabir07/medicare-html.git
    ```
 
 2. **Open in browser**
    ```bash
-   cd medicare-landing
-   open index.html
+   cd medicare-html
+   open medicare_code.html
    ```
-   Or simply double-click `index.html` — it works instantly.
+   Or simply double-click `medicare_code.html` — it works instantly.
 
 ---
 
@@ -86,7 +86,7 @@ medicare-landing/
 1. Push the repo to GitHub
 2. Go to **Settings → Pages**
 3. Set source to `main` branch, `/ (root)` folder
-4. Visit `https://YOUR_USERNAME.github.io/medicare-landing/`
+4. Visit `https://shahriarkabir07.github.io/medicare-html/`
 
 ---
 
