@@ -94,11 +94,7 @@ medicare-html/
 
 **Shahriar Kabir**
 - GitHub: [@shahriarkabir07](https://github.com/shahriarkabir07)
-- Instagram: [@shahriar_rony06](https://instagram.com/shahriar_rony06)
+
 - University: Daffodil International University · Software Engineering (Year 3)
 
 ---
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
